@@ -1,0 +1,3 @@
+java -cp antlr-3.2.jar org.antlr.Tool <filename.g>
+
+javac -cp antlr-3.2.jar *.java
